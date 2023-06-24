@@ -1,6 +1,8 @@
 # Spark-ML-Projects
 Advanced Machine Learning with Apache Spark: Leveraging Logistic Regression, Random Forest and Decision Tree Classifiers
 
+Project Walk Through: [YouTube](https://youtu.be/4reaO3hOxz8)
+
 ## Project 1: Toxic Comment Classification
 
 ### Introduction
