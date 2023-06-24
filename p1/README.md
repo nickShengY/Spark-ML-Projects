@@ -1,4 +1,4 @@
-# Project-2-Part1:Toxic Comment Classification
+# Part1:Toxic Comment Classification
 # Introduction
 
 In this part, we were going to explore basic text processing using the toxic comment text classification dataset. Although the machine learning and text processing techniques employed were not sophisticated, our primary objective was to convert the comment text column into a sparse vector representation that could be utilized by a classification algorithm within the Spark ML library.
